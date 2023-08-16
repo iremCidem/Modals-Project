@@ -1,0 +1,18 @@
+.center {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   border: 1px solid white;
+   text-align: center;
+   padding: 5rem;
+   color: rgb(24, 22, 22);
+   border-radius: 2rem;
+   box-shadow: 0 2rem 3rem white;
+}
+
+.top {
+   position: fixed;
+   top: 6%;
+   left: 87%;
+}
